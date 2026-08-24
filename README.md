@@ -3,7 +3,9 @@
 Estudiante avanzado de 2.º año de la Tecnicatura Universitaria en Programación en la Universidad Tecnológica Nacional (UTN-FRRO), con finalización prevista en noviembre de 2026. Mi formación técnica se complementa con experiencia práctica en la creación de soluciones complejas y sitios web completos utilizando diversas tecnologías. Capacidad demostrada para integrar arquitecturas de software tradicionales con soluciones orientadas a IA, junto con una visión integral del desarrollo full-stack desde el modelado de datos hasta el despliegue.
 
 📍 Rosario, Santa Fe, Argentina (ciudadano argentino/español)
+
 📫 cusciannafranco@gmail.com
+
 🔗 [linkedin.com/in/francocus](https://linkedin.com/in/francocus)
 
 ---
