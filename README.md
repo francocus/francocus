@@ -23,7 +23,11 @@ Stack: Next.js, React, TypeScript, Vercel AI SDK (Google Gemini), MCP, Drizzle O
 ### Stack y Habilidades
 
 **Lenguajes:** JavaScript, TypeScript, Python, C#, SQL.
+
 **Frameworks y Librerías:** React, Next.js, Node.js, Express, .NET.
+
 **Bases de Datos:** PostgreSQL, MongoDB, MySQL, SQL Server, consultas complejas (joins, subconsultas), transacciones ACID, stored procedures y triggers, ORMs (Prisma, Sequelize, Drizzle). 
+
 **Herramientas:** Git, Postman, HTML, CSS, Principios SOLID, UML, Arquitectura de Software (MVC, Clean Architecture, REST APIs), Metodologías Ágiles (Scrum, Kanban), CI/CD, Testing.
+
 **IA:** Agentes de IA y asistentes de código (Claude, Codex, OpenCode).
