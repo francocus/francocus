@@ -2,9 +2,7 @@
 
 # Franco Cuscianna
 
-Estudiante avanzado de 2.º año de la Tecnicatura Universitaria en Programación (UTN-FRRO), con finalización prevista en noviembre de 2026. Integro arquitecturas de software tradicionales con soluciones orientadas a IA, con una visión integral del desarrollo full-stack, del modelado de datos al despliegue.
-
-📍 Rosario, Santa Fe, Argentina (ciudadano argentino/español)
+Estudiante avanzado de 2.º año de la Tecnicatura Universitaria en Programación (UTN-FRRO). Integro arquitecturas de software tradicionales con soluciones orientadas a IA con una visión integral del desarrollo full-stack, desde el modelado de datos al despliegue.
 
 <br/>
 
@@ -17,7 +15,7 @@ Estudiante avanzado de 2.º año de la Tecnicatura Universitaria en Programació
 
 <h2 align="center">🚀 Proyectos</h2>
 
-### ⚖️ [LegalManager — Sistema de Gestión Jurídica Integral](https://github.com/francocus/gestion-legal-estudio)
+### ⚖️ [Sistema de Gestión Jurídica Integral](https://github.com/francocus/gestion-legal-estudio)
 
 ![Next.js 16](https://img.shields.io/badge/Next.js%2016-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
@@ -35,7 +33,6 @@ Estudiante avanzado de 2.º año de la Tecnicatura Universitaria en Programació
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=000000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/Vercel%20AI%20SDK-000000?style=flat-square&logo=vercel&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![MCP](https://img.shields.io/badge/MCP-000000?style=flat-square&logo=modelcontextprotocol&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=000000)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
